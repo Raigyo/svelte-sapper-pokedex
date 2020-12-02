@@ -1,6 +1,6 @@
 # Svelte.js - Pokédex
 
-November 2020
+December 2020
 
 > 🔨  Pokédex made with Svelte using Pokémon API.
 >
