@@ -24,7 +24,6 @@ It displays Pokémons by name (in French) and display an image of the creature.
 
 ![capture](_readme-img/capture02.png)
 
-
 Tip: disable *autosave* when you work with api, otherwise it will make tons of not useful request.
 
 ## How to test
